@@ -1,0 +1,40 @@
+#paint-box {
+  width: 50em;
+  height: 27em;
+  margin: auto
+}
+#background {
+  width: 65em;
+  height: 37em;
+  background-color: silver;
+  margin: auto;
+  padding-top: 10%;
+
+}
+
+#paint-colors {
+  width: 50em;
+  height: 17em;
+  margin: auto
+}
+
+.pixels {
+  width: 1em;
+  height: 1em;
+  background-color: white;
+  border: 1px solid gray;
+  float: left;
+}
+
+.paletteOfColors {
+  width: 4em;
+  height: 4em;
+  border-radius: 50%;
+  float: left
+}
+
+.thisColor {
+  width: 50em;
+  height: 4em;
+  float: left;
+}
